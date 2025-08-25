@@ -64,7 +64,7 @@ python manage.py makemigrations
 
 python manage.py migrate
 
-**5. Iniciar el servidor **
+**5. Iniciar el servidor**
 
 Ejecutar el comando:
 
