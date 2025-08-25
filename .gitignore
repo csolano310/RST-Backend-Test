@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 #Credenciales .env
-ToDoApp/ejemplo.env
+./ToDoApp/ejemplo.env
