@@ -61,6 +61,7 @@ Dentro del archivo .env se encuentran las diferentes configuraciones de variable
 Una vez configurados las conexiones, se debe realizar la respectiva migración, para esto se debe ejecutar.
 
 python manage.py makemigrations
+
 python manage.py migrate
 
 **5. Iniciar el servidor **
