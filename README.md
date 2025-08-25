@@ -71,3 +71,20 @@ Ejecutar el comando:
 python manage.py runserver
 
 El API ya se encuentra disponible para que pueda ser consumida, se pueden consumir las API con postman si se quiere realizar las pruebas de cada endpoints de las misma.
+
+
+### FRONT-END
+
+**1. Abrir la carpeta del front de la aplicación**
+
+cd todo-frontend
+
+**2. Instalar depedencias de VUE**
+
+Ejecutar el comando:
+
+npm install
+
+**3. Iniciar el servidor de desarrollo**
+
+npm runs dev
