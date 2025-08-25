@@ -43,6 +43,7 @@ cd ToDoApp
 **2. Crear entorno virtual para arrancar la app**
 
 python -m venv env
+
 source env/bin/activate 
 
 **3. Instalar librerías con el archivo requirements.txt**
