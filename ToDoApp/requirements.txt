@@ -1,0 +1,16 @@
+asgiref==3.9.1
+Django==5.2.5
+djangorestframework==3.16.1
+dotenv==0.9.9
+ecdsa==0.19.1
+mysqlclient==2.2.7
+pyasn1==0.6.1
+python-dotenv==1.1.1
+python-jose==3.5.0
+rsa==4.9.1
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2025.2
+django-cors-headers==4.7.0
+drf-yasg==1.21.7
+setuptools==80.9.0
